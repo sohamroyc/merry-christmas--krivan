@@ -167,7 +167,7 @@ const App: React.FC = () => {
           Merry Christmas, Krivan ❤️
         </p>
         <p className="mt-2 text-gray-400 text-xs">
-          Made with love for my favorite blessing • 2024
+          Made with love for my favorite blessing • 2025
         </p>
       </footer>
 
